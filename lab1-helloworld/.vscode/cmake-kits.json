@@ -1,0 +1,6 @@
+[
+    {
+        "name": "XC32",
+        "toolchainFile": "${workspaceFolder}/cmake/xc32.cmake"
+    }
+]

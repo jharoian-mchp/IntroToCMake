@@ -1,0 +1,25 @@
+# .gitignore file
+#
+# Set up for Microchip CMake development
+#
+# John Haroian
+# Greg Mrozek
+#
+# Updated March 13, 2023
+
+# Build directories
+build*/
+
+# External Libraries
+libs/
+
+# Exclude non-portable .vscode files
+.vscode/c_cpp_properties.json
+
+# MCC specific
+*mc3.bak*
+
+# Large Files
+*.exe
+*.zip
+*.pdf

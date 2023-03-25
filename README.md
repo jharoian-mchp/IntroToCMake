@@ -1,6 +1,5 @@
 # Intro to CMake
 
-John Haroian
 March 25, 2023
 
 Internal course for introducing CMake. 
