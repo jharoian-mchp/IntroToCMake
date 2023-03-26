@@ -5,7 +5,7 @@ set(microcontroller ATSAME54P20A)       # Target microcontroller - needed for xc
 
 # Project name is independent of the target name
 # Semantic version number updated here 
-project(    lab1-helloworld
+project(    lab1
             VERSION 0.1.0
             LANGUAGES C
 )
