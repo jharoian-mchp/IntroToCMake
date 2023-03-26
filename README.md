@@ -57,22 +57,6 @@ git version 2.40.0.windows.1
 
 The course uses the [SAME54 Xplained Pro Evaluation Kit.](https://www.microchip.com/en-us/development-tool/ATSAME54-XPRO)  The board features the ATSAME54P20A and contains an USB connected embedded debugger which will be used in the course.
 
-## Course Outline
-
-- Introduction to CMake
-  - What is it
-  - CMake Concepts
-  - Where does it fit in the build tools chain
-  - Alternatives
-  - Why do you care
-- Lab 1 - Walk through
-  - Create Hello World project on SAM E54 board
-  - Blink LED
-  - BSP for SAME54 board in repo
-- Lab 2 - Walk through?
-  - Create FreeRTOS based project
-- Lab 3 - CMake with a Harmony project?
-
 ## References
 
 - [Professional CMake 14th Edition](https://crascit.com/professional-cmake/)
