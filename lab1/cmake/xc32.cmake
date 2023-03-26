@@ -1,6 +1,6 @@
 # Toolchain file for XC32
 set(CMAKE_SYSTEM_NAME Generic)
-set(CMAKE_SYSTEM_PROCESSOR ATSAME54P20A)
+set(CMAKE_SYSTEM_PROCESSOR arm)
 
 set(CMAKE_C_COMPILER xc32-gcc)
 
