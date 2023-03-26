@@ -1,0 +1,8 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/source",
+    "files.associations": {
+        "xc.h": "c",
+        "same54p20a.h": "c"
+    },
+}
