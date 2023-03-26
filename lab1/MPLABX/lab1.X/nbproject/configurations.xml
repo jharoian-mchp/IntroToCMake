@@ -16,13 +16,10 @@
                    projectFiles="true">
       <itemPath>C:\Projects\IntroToCMake\lab1\build\HelloWorld.elf</itemPath>
     </logicalFolder>
-    <logicalFolder name="ScriptFiles"
-                   displayName="Script Files"
-                   projectFiles="true">
-    </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Source Files"
                    projectFiles="true">
+      <itemPath>C:\Projects\IntroToCMake\lab1\source\main.c</itemPath>
       <itemPath>c:\progra~1\microc~1\xc32\v4.21\pic32c\lib\proc\ATSAME54P20A\startup_atsame54p20a.c</itemPath>
       <itemPath>C:\Program Files\Microchip\xc32\v4.21\pic32c\lib\proc\ATSAME54P20A\startup_atsame54p20a.c</itemPath>
     </logicalFolder>
@@ -39,7 +36,7 @@
         <targetDevice>ATSAME54P20A</targetDevice>
         <targetHeader></targetHeader>
         <targetPluginBoard></targetPluginBoard>
-        <platformTool>EdbgTool</platformTool>
+        <platformTool>noID</platformTool>
         <languageToolchain></languageToolchain>
         <languageToolchainVersion></languageToolchainVersion>
         <platform>3</platform>
