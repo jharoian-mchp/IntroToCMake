@@ -1,3 +1,4 @@
 [submodule "zero2ping.git"]
 	path = zero2ping
 	url = https://github.com/jharoian-mchp/zero2ping.git
+	branch = cmake
