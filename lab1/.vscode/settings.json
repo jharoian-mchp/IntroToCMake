@@ -5,4 +5,7 @@
         "xc.h": "c",
         "same54p20a.h": "c"
     },
+    "cmake.preferredGenerators": [
+        "Ninja"
+    ],
 }

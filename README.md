@@ -1,5 +1,6 @@
 # Intro to CMake
 
+Updated August 14, 2023
 March 25, 2023
 
 Internal course for introducing CMake. 
@@ -12,7 +13,7 @@ Install the following programs and packages.  Any MPLAB X supported platform can
 
 ### Programs to install
 
-- MPLAB X v6.05
+- MPLAB X v6.15
   - https://www.microchip.com/mplabx
   - Update CMSIS to v5.8.0 from Packs under Tools menu
 - XC32 v4.21
@@ -42,7 +43,7 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 C:\Users\C14029>cmake --version
-cmake version 3.25.3
+cmake version 3.27.2
 
 CMake suite maintained and supported by Kitware (kitware.com/cmake).
 
@@ -50,7 +51,7 @@ C:\Users\C14029>ninja --version
 1.11.1.git.kitware.jobserver-1
 
 C:\Users\C14029>git --version
-git version 2.40.0.windows.1
+git version 2.41.0.windows.3
 ```
 
 ### Hardware Required
